@@ -1,26 +1,27 @@
-body{
-    background-color: #EAC926;
-    font-family: 'Roboto', sans-serif;
+body {
+  background-color: #eac926;
+  font-family: "Roboto", sans-serif;
 }
 
-.cuerpo{
-     font-size: 16px;
+.cuerpo {
+  font-size: 16px;
 }
-.titulo{
-    font-size:24px;
+.titulo {
+  font-size: 24px;
 }
-.precios{
-    font-size: 18px;
+.precios {
+  font-size: 18px;
 }
-.cuotas{
-    text-align:center; 
+.cuotas {
+  text-align: center;
 }
 
-.descuentos{
-    font-size: 16px;
+.descuentos {
+  font-size: 16px;
 }
-.imagenes{
-width: 98vw;
-height: auto;
-padding-right: 5px;
+.articulos {
+  width: 95vh;
+  height: auto;
+  padding-right: 5px;
 }
+
