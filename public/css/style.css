@@ -25,3 +25,30 @@ body {
   padding-right: 5px;
 }
 
+.burger-menu, .fas fa-bars{
+text-align: center;
+color: white;
+background-color: blue;
+border-radius: 10%;
+width: 10%;
+margin-left: 50%;
+padding-top: 2%;
+padding-bottom: 2%;
+}
+.iconos{
+  text-align: center;
+color: blue;
+height: 2em;
+margin-bottom: 10px;
+}
+
+.footer{
+  text-align: center; 
+}
+
+.imagenes{
+  height: 80vh;
+  width: 80vh;
+
+
+}
